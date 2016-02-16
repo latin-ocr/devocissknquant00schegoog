@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./devocissknquant00schegoog_0001.png"; bbox 0 0 3450 5367; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1013 132 1901 380">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1013 101 1901 380">
+     <span class='ocr_line' id='line_1_1' title="bbox 1204 132 1845 297; baseline 0.01 -96.97"><span class='ocrx_word' id='word_1_1' title='bbox 1204 132 1845 297; x_wconf 41' lang='lat' dir='ltr'>fssfflun†5„3,&#39;3</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1013 184 1901 380; baseline 0.003 -12"><span class='ocrx_word' id='word_1_2' title='bbox 1013 268 1016 333; x_wconf 0' lang='lat' dir='ltr'> ÷</span> <span class='ocrx_word' id='word_1_3' title='bbox 1200 184 1901 380; x_wconf 46' lang='lat' dir='ltr'>mm0¹ull!tumnm!uanlmtlfflmi.lul</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1013 428 1745 504">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1013 428 1745 504">
+     <span class='ocr_line' id='line_1_3' title="bbox 1013 428 1745 504; baseline 0.023 -28"><span class='ocrx_word' id='word_1_4' title='bbox 1013 497 1015 504; x_wconf 10' lang='grc' dir='ltr'>λ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1212 432 1319 496; x_wconf 56' lang='grc' dir='ltr'>ΞΕ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1396 432 1500 492; x_wconf 65' lang='lat' dir='ltr'>L}</span> <span class='ocrx_word' id='word_1_7' title='bbox 1576 428 1745 492; x_wconf 57' lang='lat' dir='ltr'>Vhffl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2234 5367">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2234 5367">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2234 5367; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2234 5367; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
